@@ -1,2 +1,5 @@
-# Data-Analysis-Dash-Board
-CNA Data Analysis examines organizational survey data to identify workforce skill gaps, training needs, and capacity strengths. It provides evidence-based insights for planning Learning and Development (L&amp;D) programs, aligning employee capabilities with institutional goals, and improving overall performance and service delivery
+Project Title:
+Capability Needs Analysis (CNA) Data Analysis and Reporting System
+
+Project Objective:
+To develop an automated system that analyzes CNA survey data to identify workforce skill gaps, training needs, and institutional capacity strengths. The system aims to generate evidence-based insights and reports that support strategic workforce planning, policy development, and targeted Learning and Development (L&D) interventions across public sector organizations.
